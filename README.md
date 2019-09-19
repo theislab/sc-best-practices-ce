@@ -52,9 +52,9 @@ To extend the current version of the best-practices with additional tools, we re
 ## Attribution:
 
 ### Planning:
-Malte D Luecken
-Leander Dony
-Fabian Theis
+Malte D Luecken  
+Leander Dony  
+Fabian Theis  
 
 ### Benchmarking:
 
