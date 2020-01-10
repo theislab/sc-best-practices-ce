@@ -49,7 +49,7 @@ To extend the current version of the best-practices with additional tools, we re
 
 
 
-## Attribution:
+## Contributions:
 
 ### Planning:
 Malte D Luecken  
