@@ -1,7 +1,7 @@
 # Single-cell RNA-seq analysis best practices: Community Edition
 
 This repository contains the best-practices for scRNA-seq analysis as determined by the 
-community. Best practices are built upon the publication "Luecken and Theis, Current 
+community. Best practices are built upon the [publication](https://www.ncbi.nlm.nih.gov/pubmed/31217225) "Luecken and Theis, Current 
 best practices in single-cell RNA-seq analysis: a tutorial, Mol Sys Biol (2019)".
 Extensions to these best-practices are decided upon based on benchmarking results and 
 discussion in this repo.
